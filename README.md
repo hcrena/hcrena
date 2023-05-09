@@ -12,11 +12,13 @@ A recent graduate from Simon Fraser University with a Bachelor of Science in Sta
 
 - :seedling: Skilled in analytical languages not limited to
    
-      -> Data Analytics: Python, R, SAS, SQL, and Stata
+      -> Data Analytics: Python, R, SAS, SQL, Stata, Matlab, EXCEL
   
-      -> Data Visualization: Tableau, and Power BI
+      -> Data Visualization: Tableau, Power BI
   
       -> Geospatial Data Analytics: ArcGIS
+      
+      -> PM: Agile, Scrum
   
 
 - :zap: In my free time, I cook, play board games, and explore various cuisines
